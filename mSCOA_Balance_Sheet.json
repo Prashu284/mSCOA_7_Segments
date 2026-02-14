@@ -1,10 +1,54 @@
 [
   {
-    "source_url": "refs/heads/main/Balance_Sheet/bsheet_aggregate_2026-02-04T12_35_22.872291.csv",
-    "sink_folder": "mSCOA_Bronze_BalanceSheet",
+    "source_url": "refs/heads/main/7%20Segments/Bridge_Item_Hierarchy.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
   },
   {
-    "source_url": "refs/heads/main/Balance_Sheet/bsheet_aggregate_2026-02-04T12_35_30.259959.csv",
-    "sink_folder": "mSCOA_Bronze_BalanceSheet",
-  }
+    "source_url": "refs/heads/main/7%20Segments/Bridge_Segment_Hierarchy.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_CostCentre.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_DetailedItem.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_Fund.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_Project.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_Segment.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_StandardItem.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_Vote.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Fact_Budget.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Fact_Transaction.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Ref_COFOG.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Ref_GL_Accounts.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+  },
 ]

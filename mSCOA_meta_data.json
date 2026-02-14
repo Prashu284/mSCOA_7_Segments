@@ -32,7 +32,7 @@
   {
     "source_url": "refs/heads/main/7%20Segments/Dim_Segment.csv",
     "sink_folder": "mSCOA_7_Segments_Bronze",
-    "sink_file": "mSCOA_Raw_Data",
+    "sink_file": "Dim_Segment",
   },
   {
     "source_url": "refs/heads/main/7%20Segments/Dim_StandardItem.csv",

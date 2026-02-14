@@ -1,0 +1,10 @@
+[
+  {
+    "source_url": "refs/heads/main/Balance_Sheet/bsheet_aggregate_2026-02-04T12_35_22.872291.csv",
+    "sink_folder": "mSCOA_Bronze_BalanceSheet",
+  },
+  {
+    "source_url": "refs/heads/main/Balance_Sheet/bsheet_aggregate_2026-02-04T12_35_30.259959.csv",
+    "sink_folder": "mSCOA_Bronze_BalanceSheet",
+  }
+]

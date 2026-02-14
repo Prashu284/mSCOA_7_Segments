@@ -1,0 +1,22 @@
+[
+  {
+    "domain": "BalanceSheet",
+    "source_folder": "Balance_Sheet",
+    "sink_folder": "mSCOA_Bronze_BalanceSheet"
+  },
+  {
+    "domain": "CashFlow",
+    "source_folder": "Cash_Flow",
+    "sink_folder": "mSCOA_Bronze_CashFlow"
+  },
+  {
+    "domain": "IncomeExpenditure",
+    "source_folder": "Income_Expenditure",
+    "sink_folder": "mSCOA_Bronze_IncomeExpenditure"
+  },
+  {
+    "domain": "FinancialPosition",
+    "source_folder": "Financial_Position",
+    "sink_folder": "mSCOA_Bronze_FinancialPosition"
+  }
+]

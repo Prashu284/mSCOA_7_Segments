@@ -1,0 +1,67 @@
+[
+  {
+    "source_url": "refs/heads/main/7%20Segments/Bridge_Item_Hierarchy.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Bridge_Item_Hierarchy",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Bridge_Segment_Hierarchy.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Bridge_Segment_Hierarchy",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_CostCentre.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Dim_CostCentre",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_DetailedItem.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Dim_DetailedItem",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_Fund.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Dim_Fund",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_Project.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Dim_Project",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_Segment.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Dim_Segment",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_StandardItem.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Dim_StandardItem",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Dim_Vote.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Dim_Vote",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Fact_Budget.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Fact_Budget",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Fact_Transaction.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Fact_Transaction",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Ref_COFOG.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Ref_COFOG",
+  },
+  {
+    "source_url": "refs/heads/main/7%20Segments/Ref_GL_Accounts.csv",
+    "sink_folder": "mSCOA_7_Segments_Bronze",
+    "sink_file": "Ref_GL_Accounts",
+  },
+]
